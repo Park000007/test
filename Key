@@ -1,3 +1,3 @@
 # ©2021 Park Hub X Cloud All Rights Reserved.
 API=loadstring(game:HttpGet("https://raw.githubusercontent.com/Park000007/test/refs/heads/main/V.4", true))()
-KEY=loadstring(game:HttpGet("", true))()
+KEY=loadstring(game:HttpGet("https://raw.githubusercontent.com/Park000007/test/refs/heads/main/KeyAPI.lua", true))()
